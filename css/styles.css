@@ -51,6 +51,7 @@ a{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color: #434455;
 }
 
 .contacts-link:hover,
@@ -89,7 +90,7 @@ background-color: #404bbf;
 .subtitle{
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.12;
+    line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
     color: #2e2f42;
@@ -99,7 +100,7 @@ background-color: #404bbf;
  subtitle-img{
     font-weight: 500;
     font-size: 20px;
-    line-height: 1.2;
+    line-height: 1.12;
     letter-spacing: 0.02em;
     color: #2e2f42;
  }
@@ -107,7 +108,7 @@ background-color: #404bbf;
 .text-main-page{
     font-size: 16px;
     line-height: 1.5;
-    text-align: center;
+    letter-spacing: 0.02em;
  }
 
  .page-footer{
