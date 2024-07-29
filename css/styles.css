@@ -47,7 +47,6 @@ a{
 .contacts-link{
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.02em;
 }
 
 .contacts-link:hover,
@@ -84,8 +83,7 @@ background-color: #404bbf;
 .subtitle{
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
-    letter-spacing: 0.02em;
+    line-height: 1.12;
     text-align: center;
     color: #2e2f42;
     
@@ -102,7 +100,6 @@ background-color: #404bbf;
 .text-main-page{
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.02em;
     text-align: center;
  }
 
