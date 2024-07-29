@@ -48,10 +48,75 @@ a{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
 }
 
 .contacts-link:hover,
 .contacts-link:focus{
     color: #404bbf;
 }
+
+.section-title{
+background-color: #2e2f42;
+}
+
+.title{
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    color: #fff;
+}
+
+.button{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #fff;
+    cursor: pointer;
+    background: #4d5ae5;
+}
+
+.button:hover,
+.button:focus {
+background-color: #404bbf;
+}
+
+.subtitle{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11111;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+    
+}
+
+ subtitle-img{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    text-align: center;
+    color: #2e2f42;
+ }
+
+.text-main-page{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: center;
+ }
+
+ .page-footer{
+    background: #2e2f42;
+ }
+
+ .text-fotter-page{
+    font-size: 16px;
+    line-height: 1.5;
+    color: #f4f4fd;
+    
+ }
+
+ .img{
+    background-color: url("path_to_image");
+ }
