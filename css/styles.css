@@ -17,6 +17,8 @@ a{
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
     color: #4d5ae5;
 }
 
@@ -32,6 +34,7 @@ a{
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
+    letter-spacing: 0.02em;
     color: #2e2f42;
 }
 
@@ -47,6 +50,7 @@ a{
 .contacts-link{
     font-size: 16px;
     line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 .contacts-link:hover,
@@ -63,6 +67,7 @@ background-color: #2e2f42;
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
+    letter-spacing: 0.02em;
     color: #fff;
 }
 
@@ -72,6 +77,7 @@ background-color: #2e2f42;
     line-height: 1.5;
     color: #fff;
     cursor: pointer;
+    letter-spacing: 0.04em;
     background: #4d5ae5;
 }
 
@@ -85,6 +91,7 @@ background-color: #404bbf;
     font-size: 36px;
     line-height: 1.12;
     text-align: center;
+    letter-spacing: 0.02em;
     color: #2e2f42;
     
 }
@@ -93,7 +100,7 @@ background-color: #404bbf;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
-    text-align: center;
+    letter-spacing: 0.02em;
     color: #2e2f42;
  }
 
