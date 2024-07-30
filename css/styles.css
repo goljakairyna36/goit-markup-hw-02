@@ -26,7 +26,7 @@ a{
     color: #2e2f42;
 }
 
-.footer-logo .logo-studio {
+.footer-logo .logo-studio{
     color:#f4f4fd;
 }
 
@@ -87,45 +87,47 @@ background-color: #2e2f42;
 background-color: #404bbf;
 }
 
-.section-subtitle-term{
+.section-team{
     background-color: #f4f4fd;
 }
-.subtitle{
+
+.desc,
+.desc,
+.portfolio{
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
     color: #2e2f42;
-    
 }
 
- subtitle-img{
+.img-team,
+.img-portfolio {
+    background-color: url("path_to_image");
+}
+.subtitle-section{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.12;
     letter-spacing: 0.02em;
     color: #2e2f42;
- }
+}
 
-.text-main-page{
+.text-subtitle{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
- }
+}
 
- .page-footer{
+.page-footer{
     background: #2e2f42;
- }
+}
 
- .text-fotter-page{
+.text-fotter-page{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;
-    
- }
+}
 
- .img{
-    background-color: url("path_to_image");
- }
