@@ -114,10 +114,26 @@ background-color: #404bbf;
     color: #2e2f42;
 }
 
+.subtitle-section-team{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
+
 .text-subtitle{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+}
+
+.text-subtitle-team {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: center;
 }
 
 .page-footer{
